@@ -9,5 +9,6 @@ public class main {
 		
 	System.out.println("mai project");	
 		
+	System.out.println("hurryyyy");
 	}
 }
